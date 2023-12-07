@@ -1,0 +1,16 @@
+C:\Users\Alandalos\Desktop\assignment project\assignment project\bin\Debug\assignment project.exe.config
+C:\Users\Alandalos\Desktop\assignment project\assignment project\bin\Debug\assignment project.exe
+C:\Users\Alandalos\Desktop\assignment project\assignment project\bin\Debug\assignment project.pdb
+C:\Users\Alandalos\Desktop\assignment project\assignment project\obj\Debug\assignment project.csproj.AssemblyReference.cache
+C:\Users\Alandalos\Desktop\assignment project\assignment project\obj\Debug\MainWindow.g.cs
+C:\Users\Alandalos\Desktop\assignment project\assignment project\obj\Debug\App.g.cs
+C:\Users\Alandalos\Desktop\assignment project\assignment project\obj\Debug\assignment project_MarkupCompile.cache
+C:\Users\Alandalos\Desktop\assignment project\assignment project\obj\Debug\assignment project_MarkupCompile.lref
+C:\Users\Alandalos\Desktop\assignment project\assignment project\obj\Debug\MainWindow.baml
+C:\Users\Alandalos\Desktop\assignment project\assignment project\obj\Debug\assignment project.g.resources
+C:\Users\Alandalos\Desktop\assignment project\assignment project\obj\Debug\assignment_project.Properties.Resources.resources
+C:\Users\Alandalos\Desktop\assignment project\assignment project\obj\Debug\assignment project.csproj.GenerateResource.cache
+C:\Users\Alandalos\Desktop\assignment project\assignment project\obj\Debug\assignment project.csproj.CoreCompileInputs.cache
+C:\Users\Alandalos\Desktop\assignment project\assignment project\obj\Debug\assignment project.exe
+C:\Users\Alandalos\Desktop\assignment project\assignment project\obj\Debug\assignment project.pdb
+C:\Users\Alandalos\Desktop\assignment project\assignment project\obj\Debug\assignment project_Content.g.cs
